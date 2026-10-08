@@ -1,5 +1,13 @@
 # @ai-sdk/harness-claude-code
 
+## 1.0.150
+
+### Patch Changes
+
+- 0887035: fix(harness-claude-code): close compaction events emitted outside a model step
+- 714f3fc: fix(harness-claude-code): report host tool calls rejected by MCP input validation
+  - @ai-sdk/harness@1.0.146
+
 ## 1.0.149
 
 ### Patch Changes

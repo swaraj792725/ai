@@ -1,5 +1,13 @@
 # ai
 
+## 7.0.135
+
+### Patch Changes
+
+- 5ddbb70: fix(ai): prevent duplicate continuation requests for repeated tool approval responses
+- Updated dependencies [908fd12]
+  - @ai-sdk/gateway@4.0.109
+
 ## 7.0.134
 
 ### Patch Changes
